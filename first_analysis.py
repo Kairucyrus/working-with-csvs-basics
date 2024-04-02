@@ -1,3 +1,6 @@
+#given a dataset (csv) we can use matplotlib to plot entity distributions of the given dataset
+#in our case, we have the population of countries from 1952 through 2007. We can compare the 
+#population growth of different countries (USA and China, for our case)
 import pandas as pd
 
 from matplotlib import pyplot as plt
